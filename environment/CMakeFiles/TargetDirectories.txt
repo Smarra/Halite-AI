@@ -1,0 +1,4 @@
+/home/student/Halite/environment/CMakeFiles/edit_cache.dir
+/home/student/Halite/environment/CMakeFiles/halite.dir
+/home/student/Halite/environment/CMakeFiles/rebuild_cache.dir
+/home/student/Halite/environment/CMakeFiles/VERSION_CHECK.dir
